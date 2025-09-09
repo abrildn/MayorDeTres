@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\bin\Debug\net9.0\Mayor de tres numeros.exe
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\bin\Debug\net9.0\Mayor de tres numeros.deps.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\bin\Debug\net9.0\Mayor de tres numeros.runtimeconfig.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\bin\Debug\net9.0\Mayor de tres numeros.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\bin\Debug\net9.0\Mayor de tres numeros.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\obj\Debug\net9.0\Mayor de tres numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\obj\Debug\net9.0\Mayor de tres numeros.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\obj\Debug\net9.0\Mayor de tres numeros.AssemblyInfo.cs
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\obj\Debug\net9.0\Mayor de tres numeros.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\obj\Debug\net9.0\Mayor de tres numeros.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\obj\Debug\net9.0\refint\Mayor de tres numeros.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\obj\Debug\net9.0\Mayor de tres numeros.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\obj\Debug\net9.0\Mayor de tres numeros.genruntimeconfig.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\Si\Mayor de tres numeros\obj\Debug\net9.0\ref\Mayor de tres numeros.dll
